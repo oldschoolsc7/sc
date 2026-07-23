@@ -879,3 +879,28 @@ RESPONSIVE
     }
 
 }
+.leader-chief{
+
+    border:2px solid #d4af37;
+
+    box-shadow:0 0 35px rgba(212,175,55,.30);
+
+}
+
+.leader-chief:hover{
+
+    border-color:#ffd700;
+
+    box-shadow:0 0 50px rgba(255,215,0,.45);
+
+}
+
+.leader-chief .leader-content span{
+
+    background:linear-gradient(90deg,#b8860b,#ffd700);
+
+    color:#111;
+
+    font-weight:bold;
+
+}
